@@ -18,14 +18,14 @@ This is a modified version of WhatsAsena🙋🏻‍♀️It will be more useful 
 <div align="center">
   <img border-radius: 15px src="devil.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Meenakshi" src="https://img.shields.io/badge/Meenakshi-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Devil" src="https://img.shields.io/badge/Devil-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/vishnu-memanakizhakathil"><img title="Author" src="https://img.shields.io/badge/Author-vishnu-memanakizhakathil/Meenakshi?color=pink&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/prabithkuttu"><img title="Author" src="https://img.shields.io/badge/Author-prabithkuttu/Devil?color=pink&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/vishnu-memanakizhakathil">vishnu-memanakizhakathil</a> to make it public
+Project created by <a href="https://github.com/prabithkuttu">prabithkuttu</a> to make it public
     <br>
        | © |
         Reserved |
@@ -35,8 +35,8 @@ Project created by <a href="https://github.com/vishnu-memanakizhakathil">vishnu-
 ----
 
   <p align="center">
-  <a href="httsp://github.com/vishnu-memanakizhakathil/Meenakshi">
-    <img src="https://img.shields.io/github/repo-size/vishnu-memanakizhakathil/Meenakshi?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/prabithkuttu/Devil">
+    <img src="https://img.shields.io/github/repo-size/prabithkuttu/Devil?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/prabithkuttu/followers"><img title="Followers" src="https://img.shields.io/github/followers/prabithkuttu?color=pink&style=flat-square"></a>
 <a href="https://github.com/prabithkuttu/Devil/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/prabithkuttu/Devil?color=pink&style=flat-square"></a>
