@@ -5,11 +5,11 @@
 
 ## 📢Introduce myself
 
-- 🙂 I'm Vishnu Prasad
+- 🙂 I'm PRABITH kuttu
 - 🚩 I'm a beginner in this field
-- 📍 From Kayamkulam,Kerala,India🇮🇳
-- 🏫 High School at Sree Narayana Central School Kayamkulam
-- 🏫 Now I'm studying Diploma in Mechanical Engineering at Carmel Polytechnic College,Punnapra
+- 📍 From Puthucode, Palakkad ,Kerala,India🇮🇳
+- 🏫 no study
+- 🏫 No work 
 
 ```
 This is a modified version of WhatsAsena🙋🏻‍♀️It will be more useful to you
