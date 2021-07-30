@@ -95,8 +95,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/vishnu-memanakizhakathil/Meenakshi
-$ cd Meenakshi
+$ git clone https://github.com/prabithkuttu/Devil
+$ cd Devil
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -105,8 +105,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/vishnu-memanakizhakathil/Meenakshi
-$ cd Meenakshi
+$ git clone https://github.com/prabithkuttu/Devil
+$ cd Devil
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -134,9 +134,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![vishnu-memanakizhakathil](https://github.com/vishnu-memanakizhakathil.png?size=100)](https://github.com/vishnu-memanakizhakathil) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![prabithkuttu](https://github.com/prabithkuttu.png?size=100)](https://github.com/prabithkuttu) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[vishnu-memanakizhakathil](https://github.com/vishnu-memanakizhakathil)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
+[prabithkuttu](https://github.com/prabithkuttu)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Author, Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
