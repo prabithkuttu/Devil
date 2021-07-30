@@ -38,10 +38,10 @@ Project created by <a href="https://github.com/vishnu-memanakizhakathil">vishnu-
   <a href="httsp://github.com/vishnu-memanakizhakathil/Meenakshi">
     <img src="https://img.shields.io/github/repo-size/vishnu-memanakizhakathil/Meenakshi?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/vishnu-memanakizhakathil/followers"><img title="Followers" src="https://img.shields.io/github/followers/vishnu-memanakizhakathil?color=pink&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/vishnu-memanakizhakathil/Meenakshi?color=pink&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/network/members"><img title="Forks" src="https://img.shields.io/github/forks/vishnu-memanakizhakathil/Meenakshi?color=pink&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/prabithkuttu/Devil?label=Watchers&color=pink&style=flat-square"></a>
+<a href="https://github.com/prabithkuttu/followers"><img title="Followers" src="https://img.shields.io/github/followers/prabithkuttu?color=pink&style=flat-square"></a>
+<a href="https://github.com/prabithkuttu/Devil/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/prabithkuttu/Devil?color=pink&style=flat-square"></a>
+<a href="https://github.com/prabithkuttu/Devil/network/members"><img title="Forks" src="https://img.shields.io/github/forks/prabithkuttu/Devil?color=pink&style=flat-square"></a>
+<a href="https://github.com/prabithkuttu/Devil/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/prabithkuttu/Devil?label=Watchers&color=pink&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-pink.svg"</a>
 </p>
 
