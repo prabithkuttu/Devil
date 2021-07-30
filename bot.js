@@ -136,7 +136,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Meenakshi is working! 😍')
+            chalk.green.bold('Devil is working! 😍')
         );
     });
     
